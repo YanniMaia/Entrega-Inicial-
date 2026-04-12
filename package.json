@@ -4,8 +4,8 @@
   "description": "Organizador de Estudos",
   "main": "src/script.js",
   "scripts": {
-    "test": "jest",
-    "lint": "eslint src/**"
+  "test": "jest",
+  "lint": "eslint src/**"
   },
   "keywords": [],
   "author": "",
@@ -19,4 +19,5 @@
   "jest": {
     "testEnvironment": "jsdom"
   }
+  
 }
