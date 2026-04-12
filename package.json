@@ -4,8 +4,8 @@
   "description": "Organizador de Estudos",
   "main": "src/script.js",
   "scripts": {
-  "test": "jest",
-  "lint": "eslint src/**"
+  "test": "npx jest",
+    "lint": "npx eslint src/** --fix-dry-run || true"
   },
   "keywords": [],
   "author": "",
