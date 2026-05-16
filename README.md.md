@@ -2,6 +2,8 @@
 
 Status do Projeto: v1.0.0 (Entrega Inicial)
 Autor: Yanni Elyssa Fernandes Maia 
+**[Acesse a aplicação aqui](https://yannimaia.github.io/Entrega-Inicial-/)**
+Status: v2.0.0 (Entrega Intermediária)
 
 ---
  🎯 1. Descrição do Problema Real
